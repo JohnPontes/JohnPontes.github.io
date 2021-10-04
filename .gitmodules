@@ -1,3 +1,9 @@
 [submodule "atividadesUnifor"]
 	path = atividadesUnifor
 	url = https://github.com/JohnPontes/atividadesUnifor
+[submodule "atividadeQ1"]
+	path = atividadeQ1
+	url = https://github.com/JohnPontes/atividadeQ1.git
+[submodule "atividadeQ2"]
+	path = atividadeQ2
+	url = https://github.com/JohnPontes/atividadeQ2.git
